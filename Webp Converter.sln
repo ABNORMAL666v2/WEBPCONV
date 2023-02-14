@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webp Converter", "ConsoleApp3\Webp Converter.csproj", "{DE34E004-E462-4A56-BF81-5A36F181C635}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webp Converter", "WebpConv\Webp Converter.csproj", "{DE34E004-E462-4A56-BF81-5A36F181C635}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
